@@ -1,0 +1,12 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.profile-pic {
+  width: 200px; /* Set the width of the profile picture */
+  height: 200px; /* Set the height of the profile picture */
+  border-radius: 50%; /* Make the picture round */
+  object-fit: cover; /* Ensure the picture fills the round frame */
+  border: 2px solid #fff; /* Add a border with white color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+}
